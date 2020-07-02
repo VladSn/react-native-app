@@ -1,2 +1,2 @@
 # react-native-app
-Review app. Study project.
+Review app. Learning project.
